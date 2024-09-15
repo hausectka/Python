@@ -1,4 +1,4 @@
-Uni quiz solution but using pandas (COMP9021 do not use pandas for their python lectures)
+#Uni quiz solution but using pandas (COMP9021 do not use pandas for their python lectures)
 
 # Uses National Data on the relative frequency of first names in the
 # population of U.S. births, stored in a directory "names", in files
